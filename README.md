@@ -3,7 +3,8 @@ An attempt into face osint program. Uses Haar cascade to recognize a face, then 
 1. Run install.py to install required Python libraries
 2. Get Copyseeker API here: https://rapidapi.com/Mano87/api/reverse-image-search-by-copyseeker/pricing. They have a free plan with 25 searches/month.
 3. Find your API key and host in their API documentation and paste them to api_key.txt and host.txt
-4. Run face_seeker.py
+4. Make sure your target file path contains latin symbols only
+5. Run face_seeker.py
 
 Tested on Windows 10.
 Requires Python3 and Copyseeker API subscription.
