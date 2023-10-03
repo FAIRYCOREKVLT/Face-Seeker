@@ -14,6 +14,6 @@ Special thanks to https://github.com/nokonoko for creating Uguu service
 And to OpenCV developers
 Btw, you can download some Haar cascades from here for customizing this thing: https://github.com/opencv/opencv/tree/4.x/data
 
-Contact me if you meet any errors, I'll be thankful. And also contact me if you meet any better free reverse search API!
+Contact me if you meet any errors or have any ideas, I'll be thankful. And also contact me if you meet any better free reverse search API!
 
 Support me: www.buymeacoffee.com/fairycorekvlt
